@@ -22,7 +22,7 @@ echo $this->Flash->render();
                 <td><?= $value['Post']['title'] ?></td>
                 <td><?= $value['Post']['subtitle'] ?></td>
                 <td><?= $value['Post']['body'] ?></td>
-                <td><?= $users[$value['Post']['user_id']] ?></td>
+                <td><?= $users[$value['Post']['user_id']] ?? '' ?></td>
                 <td><?= $value['Post']['created_at'] ?></td>
                 <td><?= $value['Post']['modified_at'] ?></td>
                 <td>

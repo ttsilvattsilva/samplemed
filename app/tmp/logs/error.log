@@ -1523,3 +1523,12 @@ Stack Trace:
 #10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
 #11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #12 {main}
+2020-11-13 03:20:35 Error: [MissingControllerException] Controller class UsesController could not be found.
+Exception Attributes: array (
+  'class' => 'UsesController',
+  'plugin' => NULL,
+)
+Request URL: /uses
+Stack Trace:
+#0 /usr/local/var/www/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
