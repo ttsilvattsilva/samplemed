@@ -1,5 +1,7 @@
 # Teste Blog
 
+[Permission] -  após clonar o projeto - sudo chown -R _www app/tmp   
+
 [Banco de dados] - encontrasse - /app/Config/Schema/teste_samplemed.sql 
 
     * Modelo do banco na raiz do projeto "shema_ERR.png"
