@@ -1,0 +1,1525 @@
+2020-11-11 12:42:36 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 12:42:42 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 12:47:40 Error: [MissingControllerException] Controller class HomeController could not be found.
+Exception Attributes: array (
+  'class' => 'HomeController',
+  'plugin' => NULL,
+)
+Request URL: /home
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 12:47:46 Error: [MissingControllerException] Controller class Home2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Home2Controller',
+  'plugin' => NULL,
+)
+Request URL: /home2
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 12:48:05 Error: [MissingControllerException] Controller class Home2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Home2Controller',
+  'plugin' => NULL,
+)
+Request URL: /home2
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:11:31 Error: [MissingViewException] View file "Api/add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Api/add.ctp',
+)
+Request URL: /api
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Api/add')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ApiController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 13:12:02 Error: [MissingViewException] View file "Api/add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Api/add.ctp',
+)
+Request URL: /api/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Api/add')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ApiController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 13:12:15 Error: [MissingViewException] View file "Api/add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Api/add.ctp',
+)
+Request URL: /api/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Api/add')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ApiController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 13:27:47 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /api
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:28:33 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /api
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:29:17 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:29:29 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:29:53 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:30:38 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3686): Model->setSource('posts')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): Model->getDataSource()
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#3 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(11): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2020-11-11 13:30:41 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:30:49 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3686): Model->setSource('posts')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): Model->getDataSource()
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#3 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(11): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2020-11-11 13:35:10 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3686): Model->setSource('posts')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): Model->getDataSource()
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#3 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(11): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2020-11-11 13:35:11 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3686): Model->setSource('posts')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): Model->getDataSource()
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#3 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(11): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2020-11-11 13:35:13 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:35:24 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:35:35 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:35:46 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:36:00 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:36:05 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:36:09 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post.json
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:36:29 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3686): Model->setSource('posts')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): Model->getDataSource()
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#3 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(13): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2020-11-11 13:36:33 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 13:37:24 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3686): Model->setSource('posts')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): Model->getDataSource()
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#3 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(13): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2020-11-11 13:39:15 Error: [MissingTableException] Table posts for model Post was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'posts',
+  'class' => 'Post',
+  'ds' => 'default',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3686): Model->setSource('posts')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): Model->getDataSource()
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#3 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(13): Model->find('all')
+#4 [internal function]: PostsController->index()
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2020-11-11 13:47:13 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 13:51:20 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 13:51:30 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 13:55:34 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 13:55:39 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 13:55:52 Error: [MissingViewException] View file "Posts/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/index.ctp',
+)
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/index')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 14:04:44 Error: [MissingViewException] View file "Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/view.ctp',
+)
+Request URL: /posts/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/view')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 14:04:51 Error: [MissingViewException] View file "Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/view.ctp',
+)
+Request URL: /posts/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/view')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 14:05:00 Error: [MissingViewException] View file "Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/view.ctp',
+)
+Request URL: /posts/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/view')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 14:08:22 Error: [MissingViewException] View file "Posts/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/view.ctp',
+)
+Request URL: /posts/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/view')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 14:29:58 Error: [ArgumentCountError] Too few arguments to function PostsController::view(), 0 passed and exactly 1 expected
+Request URL: /posts/view
+Stack Trace:
+#0 [internal function]: PostsController->view()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 15:07:25 Error: [PDOException] SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'now()' for column 'created_at' at row 1
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `bl...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `bl...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1942): DboSource->create(Object(AppModel), Array, Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(31): Model->save(Array)
+#6 [internal function]: PostsController->add()
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-11-11 15:07:29 Error: [PDOException] SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'now()' for column 'created_at' at row 1
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `bl...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `bl...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1942): DboSource->create(Object(AppModel), Array, Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(31): Model->save(Array)
+#6 [internal function]: PostsController->add()
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-11-11 15:15:45 Error: [PDOException] SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: 'now()' for column 'created_at' at row 1
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `bl...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `bl...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1942): DboSource->create(Object(AppModel), Array, Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(23): Model->save(Array)
+#6 [internal function]: PostsController->add()
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-11-11 15:17:17 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('get', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('get', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(648): DboSource->fetchAll('get', Array, Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(834): DboSource->query('get', Array, Object(AppModel))
+#5 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(23): Model->__call('get', Array)
+#6 [internal function]: PostsController->add()
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-11-11 15:31:03 Error: [MissingActionException] Action PostsController::editar() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'editar',
+)
+Request URL: /posts/editar/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-11-11 15:31:27 Error: [MissingActionException] Action PostsController::editar() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'editar',
+)
+Request URL: /posts/editar/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-11-11 15:31:44 Error: [Error] Call to a member function create() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 15:35:42 Error: [Error] Call to a member function create() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 15:37:31 Error: [Error] Call to a member function setFlash() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 15:37:35 Error: [Error] Call to a member function setFlash() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 15:38:40 Error: [MissingActionException] Action PostsController::excluir() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'excluir',
+)
+Request URL: /posts/excluir/4
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-11-11 15:39:23 Error: [MissingActionException] Action PostsController::editar() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'editar',
+)
+Request URL: /posts/editar/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-11-11 15:40:26 Error: [MissingActionException] Action PostsController::editar() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'editar',
+)
+Request URL: /posts/editar/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-11-11 15:40:33 Error: [MissingActionException] Action PostsController::editar() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'editar',
+)
+Request URL: /posts/editar/1
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-11-11 16:04:28 Error: [Error] Call to a member function check() on null
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(971): include()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(933): View->_evaluate('/usr/local/var/...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(546): View->_render('/usr/local/var/...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(481): View->renderLayout('<table class="t...', 'default')
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, 'default')
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2020-11-11 16:05:34 Error: [Error] Call to a member function read() on null
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(971): include()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(933): View->_evaluate('/usr/local/var/...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(546): View->_render('/usr/local/var/...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(481): View->renderLayout('<table class="t...', 'default')
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, 'default')
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2020-11-11 16:05:35 Error: [Error] Call to a member function read() on null
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(971): include()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(933): View->_evaluate('/usr/local/var/...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(546): View->_render('/usr/local/var/...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(481): View->renderLayout('<table class="t...', 'default')
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, 'default')
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2020-11-11 16:11:51 Error: [Error] Call to a member function check() on null
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(971): include()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(933): View->_evaluate('/usr/local/var/...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(546): View->_render('/usr/local/var/...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(481): View->renderLayout('<table class="t...', 'default')
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, 'default')
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2020-11-11 16:12:37 Error: [Error] Call to a member function set() on null
+Request URL: /posts/delete/8
+Stack Trace:
+#0 [internal function]: PostsController->delete('8')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:13:32 Error: [Error] Call to a member function set() on null
+Request URL: /posts/delete/9
+Stack Trace:
+#0 [internal function]: PostsController->delete('9')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:14:04 Error: [ParseError] syntax error, unexpected ';', expecting ')'
+Request URL: /posts/delete/9
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2020-11-11 16:14:16 Error: [Error] Call to a member function setFlash() on null
+Request URL: /posts/delete/9
+Stack Trace:
+#0 [internal function]: PostsController->delete('9')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:14:34 Error: [Error] Call to a member function set() on null
+Request URL: /posts/delete/9
+Stack Trace:
+#0 [internal function]: PostsController->delete('9')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:16:07 Error: [MissingViewException] View file "Posts/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/delete.ctp',
+)
+Request URL: /posts/delete/9
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/delete')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:17:28 Error: [MissingViewException] View file "Posts/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Posts/delete.ctp',
+)
+Request URL: /posts/delete/9
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Posts/delete')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:19:22 Error: [NotFoundException] Registro não encontrado.
+Request URL: /posts/delete/9
+Stack Trace:
+#0 [internal function]: PostsController->delete('9')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:20:03 Error: [NotFoundException] Registro não encontrado.
+Request URL: /posts/delete/9
+Stack Trace:
+#0 [internal function]: PostsController->delete('9')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:20:07 Error: [NotFoundException] Registro não encontrado.
+Request URL: /posts/delete/
+Stack Trace:
+#0 [internal function]: PostsController->delete()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:20:10 Error: [NotFoundException] Registro não encontrado.
+Request URL: /posts/delete/9
+Stack Trace:
+#0 [internal function]: PostsController->delete('9')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:20:18 Error: [NotFoundException] Registro não encontrado.
+Request URL: /posts/delete/9
+Stack Trace:
+#0 [internal function]: PostsController->delete('9')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:20:20 Error: [NotFoundException] Registro não encontrado.
+Request URL: /posts/delete/0
+Stack Trace:
+#0 [internal function]: PostsController->delete('0')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 16:53:32 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 16:55:08 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 16:55:23 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 16:55:26 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /user
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 16:55:29 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 19:21:15 Error: [MissingActionException] Action PostsController::users() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'users',
+)
+Request URL: /posts/users
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2020-11-11 19:22:07 Error: [MissingViewException] View file "Users/json/add.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/json/add.ctp',
+)
+Request URL: /users/add.json
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/JsonView.php(107): View->_getViewFileName('Users/json/add')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): JsonView->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 19:25:05 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 19:25:10 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /post.json
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-11 19:34:05 Error: [Error] Call to a member function find() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 19:43:09 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.first_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(34): Model->find('all', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:44:14 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'first_name.last_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(34): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:45:21 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION usermodel.CONCAT does not exist
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(34): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:50:49 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.id' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(40): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:52:04 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.id' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(36): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:52:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.id' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(36): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:52:26 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.id' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(36): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:53:25 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.id' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(36): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:56:08 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(36): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:56:26 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.first_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(36): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:57:06 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.first_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('first', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(35): Model->find('first')
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 19:57:11 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.first_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('first', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(35): Model->find('first')
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 20:01:29 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usermodel.User.full_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(35): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 20:01:36 Error: [Error] Call to a member function find() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 20:02:27 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usermodel.User.full_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(35): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 20:02:35 Error: [Error] Call to a member function UserModel() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 20:02:52 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'usermodel.User.full_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(35): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 20:05:25 Error: [Error] Call to a member function toArray() on array
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 20:15:33 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.first_name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('first', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(37): Model->find('first')
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 20:30:49 Error: [Error] Call to a member function fist() on array
+Request URL: /posts/edit/12
+Stack Trace:
+#0 [internal function]: PostsController->edit('12')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 21:27:34 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 21:28:00 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 21:28:56 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.id' in 'field list'
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(AppModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(13): Model->find('all', Array)
+#7 [internal function]: PostsController->index()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-11 21:31:07 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 21:31:08 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 21:33:59 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 21:34:13 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-11 21:39:28 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-12 17:28:12 Error: [MissingViewException] View file "Categories/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Categories/index.ctp',
+)
+Request URL: /categories
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/View/View.php(470): View->_getViewFileName('Categories/inde...')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-12 17:42:47 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'deleted' doesn't have a default value
+Request URL: /categories/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `bl...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `bl...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1942): DboSource->create(Object(AppModel), Array, Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1754): Model->_doSave(Array, Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(2515): Model->save(Array, Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/CategoriesController.php(38): Model->saveAssociated(Array)
+#7 [internal function]: CategoriesController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-12 17:48:41 Error: [MissingControllerException] Controller class PotsController could not be found.
+Exception Attributes: array (
+  'class' => 'PotsController',
+  'plugin' => NULL,
+)
+Request URL: /pots
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-11-12 17:49:09 Error: [Error] Call to a member function exists() on null
+Request URL: /categories/edit/1
+Stack Trace:
+#0 [internal function]: CategoriesController->edit('1')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-12 18:06:52 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'UserModel.name' in 'field list'
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(39): Model->find('list', Array)
+#7 [internal function]: PostsController->add()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-12 18:09:02 Error: [Error] Call to a member function find() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-12 18:52:37 Error: [MissingTableException] Table post_categories for model PostCategoryModel was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'post_categories',
+  'class' => 'PostCategoryModel',
+  'ds' => 'default',
+)
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3686): Model->setSource('post_categories')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1757): Model->getDataSource()
+#2 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(54): Model->save(Array)
+#3 [internal function]: PostsController->add()
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#7 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2020-11-12 18:53:31 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'created_at' doesn't have a default value
+Request URL: /posts/add
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `bl...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `bl...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1942): DboSource->create(Object(PostCategoryModel), Array, Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(54): Model->save(Array)
+#6 [internal function]: PostsController->add()
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-11-12 19:02:35 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`blog`.`post_categories`, CONSTRAINT `post_categories_ibfk_1` FOREIGN KEY (`post_id`) REFERENCES `posts` (`id`))
+Request URL: /posts/delete/28
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('DELETE `Post` F...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/Database/Mysql.php(459): DboSource->execute('DELETE `Post` F...')
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(2723): Mysql->delete(Object(AppModel), ' WHERE `Post`.`...')
+#4 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(105): Model->delete()
+#5 [internal function]: PostsController->delete('28')
+#6 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#9 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2020-11-12 19:20:10 Error: [Error] Call to a member function fisrt() on array
+Request URL: /posts/edit/31
+Stack Trace:
+#0 [internal function]: PostsController->edit('31')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-12 19:20:23 Error: [Error] Call to a member function first() on array
+Request URL: /posts/edit/31
+Stack Trace:
+#0 [internal function]: PostsController->edit('31')
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-13 01:01:47 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'someFunction' at line 1
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('someFunction', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('someFunction', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(648): DboSource->fetchAll('someFunction', Array, Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(834): DboSource->query('someFunction', Array, Object(AppModel))
+#5 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(17): Model->__call('someFunction', Array)
+#6 [internal function]: PostsController->index()
+#7 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2020-11-13 01:03:01 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-13 01:03:50 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-13 01:11:52 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'UserModel.post_id' in 'on clause'
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `UserMod...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `UserMod...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `UserMod...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(UserModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(20): Model->find('all')
+#7 [internal function]: PostsController->index()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-13 01:46:14 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-13 01:46:25 Error: [Error] Call to a member function find() on null
+Request URL: /posts
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-11-13 01:49:12 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CategoryModel.post_category_id' in 'on clause'
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `Categor...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `Categor...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `Categor...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(CategoryModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(18): Model->find('all')
+#7 [internal function]: PostsController->index()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-13 01:51:17 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CategoryModel.post_id' in 'field list'
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `Categor...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `Categor...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `Categor...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(CategoryModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(18): Model->find('list', Array)
+#7 [internal function]: PostsController->index()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-13 01:52:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PostCategories.post_id' in 'field list'
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `PostCat...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `PostCat...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `PostCat...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(CategoryModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('list', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(18): Model->find('list', Array)
+#7 [internal function]: PostsController->index()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2020-11-13 01:53:24 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PostCategory.post_id' in 'field list'
+Request URL: /posts
+Stack Trace:
+#0 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `PostCat...', Array)
+#2 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `PostCat...', Array, Array)
+#3 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `PostCat...', Array)
+#4 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3053): DboSource->read(Object(CategoryModel), Array)
+#5 /usr/local/var/www/teste/samplemed/lib/Cake/Model/Model.php(3025): Model->_readDataSource('all', Array)
+#6 /usr/local/var/www/teste/samplemed/app/Controller/PostsController.php(18): Model->find('all', Array)
+#7 [internal function]: PostsController->index()
+#8 /usr/local/var/www/teste/samplemed/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /usr/local/var/www/teste/samplemed/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /usr/local/var/www/teste/samplemed/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
